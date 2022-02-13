@@ -1,16 +1,23 @@
+<!-- ReadMe подсмотрел у него =) https://github.com/yuk7  -->
+
 ### Hi there 👋
 
-<!--
-**Tim4ukys/Tim4ukys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tim4ukys.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning shcool.
+- 💬 Ask me about anything!
+- 📫 How to reach me: [e-mail](mailto:tim4ukys.dev@yandex.ru) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: i like to read books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tim4ukys&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tim4ukys&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tim4ukys&theme=github" />
+  </a>
+</div>
