@@ -1,23 +1,25 @@
-<!-- ReadMe подсмотрел у него =) https://github.com/yuk7  -->
+### ☝ Vespere in tugurio, hora in gaudio, chifir in dulcedine, crura ambulans, ad caput veniens ☝
 
-### Hi there 👋
+- Stack: *cpp, lua*
+- Увлекаюсь: *reverse engineering*
+- Связь: [e-mail](mailto:tim4ukys.dev@yandex.ru) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
 
-I'm Tim4ukys.
+P.s <em>Если будете часто заёбывать в телеге - в чс без предупреждения.</em>
+<br>P.p.s <em>Почту никогда не чекаю, вставил для пафоса.</em>
+<br>P.p.p.s <em>Вк тоже не чекаю, ибо tg круче.</em>
 
-- 🌱 I’m currently learning shcool.
-- 💬 Ask me about anything!
-- 📫 How to reach me: [e-mail](mailto:tim4ukys.dev@yandex.ru) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i like to read books.
+---
+
+<!-- ### Статистика -->
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tim4ukys&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!--   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tim4ukys&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tim4ukys&theme=github" />
-  </a>
+  </a> -->
 </div>
