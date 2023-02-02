@@ -2,7 +2,7 @@
 
 - Stack: *cpp, lua*
 - Увлекаюсь: *reverse engineering*
-- Связь: [e-mail](mailto:tim4ukys.dev@yandex.ru) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
+- Связь: [e-mail](mailto:tim4ukys.dev@protonmail.com) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
 
 P.s <em>Если будете часто заёбывать в телеге - в чс без предупреждения.</em>
 <br>P.p.s <em>Почту никогда не чекаю, вставил для пафоса.</em>
