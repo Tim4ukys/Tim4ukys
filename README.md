@@ -1,6 +1,6 @@
 ### ☝ Vespere in tugurio, hora in gaudio, chifir in dulcedine, crura ambulans, ad caput veniens ☝
 
-- Stack: *cpp, lua*
+- Stack: *cpp, asm(x86, x64), lua*
 - Увлекаюсь: *reverse engineering*
 - Связь: [e-mail](mailto:tim4ukys.dev@protonmail.com) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
 
