@@ -1,12 +1,6 @@
-### ☝ Vespere in tugurio, hora in gaudio, chifir in dulcedine, crura ambulans, ad caput veniens ☝
-
 - Stack: *cpp, asm(x86, x64), lua*
 - Увлекаюсь: *reverse engineering*
 - Связь: [e-mail](mailto:tim4ukys.dev@protonmail.com) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
-
-P.s <em>Если будете часто заёбывать в телеге - в чс без предупреждения.</em>
-<br>P.p.s <em>Почту никогда не чекаю, вставил для пафоса.</em>
-<br>P.p.p.s <em>Вк тоже не чекаю, ибо tg круче.</em>
 
 ---
 
