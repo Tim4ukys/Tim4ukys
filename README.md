@@ -1,6 +1,6 @@
 - Stack: *cpp, asm(x86, x64), lua, reverse engineering*
-- Увлекаюсь: *real science ёпта*
-- Связь: [e-mail](mailto:tim4ukys.dev@protonmail.com) / [VK](https://vk.com/tim4ukys) / [Telegram](https://t.me/tim4ukys)
+- Увлекаюсь: *real science*
+- Связь: [e-mail](mailto:tim4ukys.dev@protonmail.com) / [VK](https://vk.com/tim4ukys)
 
 ---
 
